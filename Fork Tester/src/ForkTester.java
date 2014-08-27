@@ -4,6 +4,7 @@ public class ForkTester
 	public static void main(String[] args)
 		{
 		System.out.println("School");
+		System.out.println("Home");
 		// Try what you did before.  
 		// Fork this to your personal GitHub account.
 		// Download it to school and add a line.
